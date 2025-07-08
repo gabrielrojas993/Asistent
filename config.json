@@ -1,0 +1,14 @@
+{
+
+    "TELEGRAM_BOT_TOKEN": "6867684384:AAG_978JbGYsX4pWtrL_ETODporQ6_RpnJw",
+    "TELEGRAM_CHAT_ID": "5239438130", 
+    "WHATSAPP_CAREGIVER_NUMBER": "+584161633174",
+    "GEMINI_API_KEY": "AIzaSyA2b-4VLYqf-kOBlp40UU20d52L4yCb2f4", 
+    "CUSTOM_COMMANDS": {
+        "saludo": ["hola", "qué tal", "buenos días", "buenas tardes", "buenas noches"],
+        "despedida": ["adiós", "hasta luego", "nos vemos", "chao"],
+        "estado": ["cómo estás", "qué haces", "todo bien"],
+        "gracias": ["gracias", "muchas gracias", "te lo agradezco"]
+    },
+    "SYSTEM_STARTUP_SCRIPT": "Inicio.bat"
+}
